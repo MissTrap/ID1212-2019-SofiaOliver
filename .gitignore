@@ -1,0 +1,17 @@
+# Default ignored files
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/ID1212-2019-SofiaOliver.iml
+src/ID1212-2019-SofiaOliver.iml
+src/bootstrapNode/connections/Connection.class
+src/bootstrapNode/controller/Controller.class
+src/bootstrapNode/model/BootstrapNode.class
+src/client/connection/Connect.class
+src/client/controller/Controller.class
+src/client/main/Main.class
+src/client/view/View.class
+src/client/modelLayer/Connect.class
+src/client/modelLayer/ObjectConnection.class
+out/*
